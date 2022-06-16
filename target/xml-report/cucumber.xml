@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="22.875">
+    <testcase classname="start" name="Start" time="22.778">
+        <system-out><![CDATA[Given Der User öffnet die "start_seite".....................................passed
+Then Der User klick auf Menu................................................passed
+And Der User scroll down....................................................passed
+And Der User klick auf Standorte............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
